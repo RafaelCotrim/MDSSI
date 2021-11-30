@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+label{
+	display: inline-block;
+    float: left;
+    clear: left;
+    width: 50%;
+    text-align: right;
+}
+
+input{
+	margin-left: 10px;
+	background-color: red;
+}
+
+#btn{
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
