@@ -1,1 +1,0 @@
-Estes são os desafios presentes nos slides de javascript. O número da pasta indica o número do slide onde o desafio é proposto.
